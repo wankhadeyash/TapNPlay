@@ -21381,17 +21381,17 @@ PrefabInstance:
     - target: {fileID: 7437792519697149017, guid: 0fb4fad0ab9006c4483366070662d0a4,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.22766815
+      value: 0.22766817
       objectReference: {fileID: 0}
     - target: {fileID: 7437792519697149017, guid: 0fb4fad0ab9006c4483366070662d0a4,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.044698797
+      value: 0.044698764
       objectReference: {fileID: 0}
     - target: {fileID: 7437792519697149017, guid: 0fb4fad0ab9006c4483366070662d0a4,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.01046258
+      value: -0.010462573
       objectReference: {fileID: 0}
     - target: {fileID: 7654573168991482017, guid: 0fb4fad0ab9006c4483366070662d0a4,
         type: 3}
